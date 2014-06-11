@@ -21,4 +21,3 @@ module ActiveAdmin
 end
 
 # Walk through all the loaded namespaces after they're loaded
-end
